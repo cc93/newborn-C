@@ -37,7 +37,6 @@
         position: absolute;
         left: 0;
         top: 0;
-        z-index: 50;
         background: url(http://static.unicef.cn/201610cwh5/images/bg_0.jpg);
         background-size: cover;
         -webkit-transition: opacity .5s;
